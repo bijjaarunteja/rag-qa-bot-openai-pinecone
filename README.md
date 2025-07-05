@@ -28,4 +28,4 @@ This project is a Question Answering (QA) system for businesses using the Retrie
 - Google Colab or Python environment
 
 ## 📝 Author
-Built by [Your Name] as part of an AI/ML project submission.
+Built by Arun Teja as part of an AI/ML project submission.
